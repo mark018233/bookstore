@@ -1,0 +1,23 @@
+{
+  "name": "bookstore-web",
+  "version": "1.0.0",
+  "description": "A minimal and modern-looking bookstore landing page.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "bookstore",
+    "landing page",
+    "modern",
+    "minimal"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
